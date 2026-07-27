@@ -1,8 +1,8 @@
-"""Create workout models
+"""Initial Schema
 
-Revision ID: 7638749cd7e7
+Revision ID: 4f78d9e343a0
 Revises: 
-Create Date: 2026-07-26 13:34:02.357121
+Create Date: 2026-07-27 07:43:16.216240
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '7638749cd7e7'
+revision = '4f78d9e343a0'
 down_revision = None
 branch_labels = None
 depends_on = None
